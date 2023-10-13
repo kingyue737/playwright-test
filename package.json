@@ -1,0 +1,7 @@
+{
+	"devDependencies": {
+		"@playwright/test": "^1.39.0",
+		"@tsconfig/node18": "^18.2.2",
+		"@types/node": "^20.8.5"
+	}
+}
